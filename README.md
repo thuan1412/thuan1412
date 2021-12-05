@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm a guy who can code a few program languages, learned/played with some and is willing to learn any new static languages.
 
 <!--
 **thuan1412/thuan1412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
